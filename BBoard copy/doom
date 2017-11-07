@@ -1,0 +1,30 @@
+<begin_topic> 
+:id: 1
+:subject: doom
+:from: mike
+:children: 12 
+:body: best game ever 
+
+<end>
+<begin_reply> 
+:id: 2
+:subject: Re: doom
+:from: mike
+:children: 23 
+:body: 10/10 ign
+
+<end>
+<begin_reply> 
+:id: 3
+:subject: Re: Re: doom
+:from: mike
+:body: ign sucks
+
+<end>
+<begin_topic> 
+:id: 4
+:subject: skyrim
+:from: mike
+:body: fdsafsdaf
+
+<end>

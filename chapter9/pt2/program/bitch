@@ -1,0 +1,14 @@
+<begin_topic> 
+:id: 1
+:subject: twitter
+:from: mike
+:children: 12 
+:body: bob
+
+<end>
+<begin_reply> 
+:id: 2
+:subject: Re: twitter
+:from: mike
+:body: 
+<end>

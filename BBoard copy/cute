@@ -1,0 +1,23 @@
+3
+<begin_topic> 
+:id: 1
+:subject: dafdsf
+:from: mike
+:children: 13  
+:body: 12 :body: afdsfdsaf
+
+<end>
+<begin_reply> 
+:id: 2
+:subject: Re: dafdsf
+:from: mike
+:body: dafadsfasdf
+
+<end>
+<begin_reply> 
+:id: 3
+:subject: Re: dafdsf
+:from: mike
+:body: haha
+
+<end>

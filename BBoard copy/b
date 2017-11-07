@@ -1,0 +1,14 @@
+<begin_topic> 
+:id: 1
+:subject: twerewr
+:from: mike
+:children: 12 
+:body: rwerwer
+
+<end>
+<begin_reply> 
+:id: 2
+:subject: Re: twerewr
+:from: mike
+:body: rwerwerrwerwer
+<end>

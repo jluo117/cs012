@@ -1,0 +1,14 @@
+<begin_topic> 
+:id: 1
+:subject: tweter
+:from: mike
+:children: 11 
+:body: erwerwer
+
+<end>
+<begin_reply> 
+:id: 1
+:subject: Re: tweter
+:from: mike
+:body: fdafdfsda
+<end>

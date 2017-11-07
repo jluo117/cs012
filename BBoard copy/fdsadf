@@ -1,0 +1,14 @@
+<begin_topic> 
+:id: 1
+:subject: dfdsaf
+:from: mike
+:children: 12 
+:body: efddf
+
+<end>
+<begin_reply> 
+:id: 2
+:subject: Re: dfdsaf
+:from: mike
+:body: dfafddfdf
+<end>
